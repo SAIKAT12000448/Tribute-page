@@ -1,0 +1,35 @@
+.container{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+.title-container{
+     text-align: center;
+}
+.image-container{
+    background-color: white;
+}
+.fig {
+           margin-left:200px;
+}
+.life{
+    margin:80px 300px;
+    
+    width: 50%;
+}
+.borlaug-life table{
+    text-align: center;
+    display: block;
+}
+li{
+text-align: justify;
+font-size: 20px;
+}
+.life blockquote{
+    font-size: 20px;
+}
+.borlaug-life h3{
+    text-align: center;
+}
